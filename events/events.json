@@ -12,5 +12,12 @@
         "date": "12-Jan-2019",
         "venue": "AV Hall, OEC BBSR",
         "details": "Here is some more information about this product that is only revealed once clicked on."
+    },
+    {
+        "banner": "https://github.com/oectechcommunity/oectechcommunity.github.io/blob/gh-pages/static/media/soh2018.191232d6.jpg?raw=true",
+        "title": "Introduction to Athena",
+        "date": "12-Jan-2019",
+        "venue": "AV Hall, OEC BBSR",
+        "details": "Here is some more information about this product that is only revealed once clicked on."
     }
 ]
