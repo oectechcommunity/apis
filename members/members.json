@@ -26,11 +26,13 @@
     {
         "name": "Pravin Vedurla",
         "branch": "Computer Science & Engineering",
-        "academicYear": "2016-2020"
+        "academicYear": "2016-2020",
+        "anySocialLink": ""
     },
     {
         "name": "Rohit Mohanty",
         "branch": "Electronics & Communication Engineering",
-        "academicYear": "2016-2020"
+        "academicYear": "2016-2020",
+        "anySocialLink": ""
     }
 ]
