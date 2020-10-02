@@ -75,6 +75,17 @@
             "city": "Bhubaneswar",
             "url": "https://www.oec.ac.in/"
         }
+    },
+    {
+        "name": "Pralipa Nayak",
+        "branch": "Computer Science & Engineering",
+        "academicYear": "2017-2021",
+        "anySocialLink": "https://www.linkedin.com/in/pralipa-nayak-b249b3194",
+        "college":{
+            "name":"Orissa Engineering College",
+            "city":"Bhubaneswar",
+            "url":"https://www.oec.ac.in/"
+        }
     }
 
 ]
