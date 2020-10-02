@@ -1,32 +1,9 @@
 [
     {
-        "name": "Pankaj Kumar Mondal",
-        "position": "Athena Convener",
-        "speciality": "Ethical Hacking",
-        "photo": "https://github.com/oectechcommunity/oectechcommunity.github.io/blob/master/src/assets/images/current-leads/pankaj-kumar-mondal.jpg?raw=true",
-        "social": {
-            "facebook": "https://facebook.com",
-            "github": "https://github.com",
-            "linkedin": "https://linkedin.com",
-            "mail": "smrutiranjan.offc@gmail.com"
-        }
-    },
-    {
-        "name": "Smruti ranjan Rana",
-        "position": "Athena Convener",
-        "speciality": "Ethical Hacking",
-        "photo": "https://github.com/oectechcommunity/oectechcommunity.github.io/blob/master/src/assets/images/current-leads/pankaj-kumar-mondal.jpg?raw=true",
-        "social": {
-            "facebook": "https://facebook.com",
-            "github": "https://github.com",
-            "linkedin": "https://linkedin.com",
-            "mail": "smrutiranjan.offc@gmail.com"
-        }
-    },
-    {
         "name": "Laxminarayan Das",
         "position": "Athena Mentor",
         "speciality": "Mobile Application Development",
+        "academicYear": "2017-2021",
         "photo": "https://raw.githubusercontent.com/laxminarayan1998/my_drive/master/IMG_20200930_160903.jpg",
         "social": {
             "facebook": "https://www.facebook.com/laxminarayan1998/",
