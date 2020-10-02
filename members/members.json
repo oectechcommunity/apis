@@ -64,5 +64,17 @@
             "city": "Bhubaneswar",
             "url": "https://www.oec.ac.in/"
         }
+    },
+    {
+        "name": "Jyotsana Singh",
+        "branch": "Computer Science & Engineering",
+        "academicYear": "2017-2021",
+        "anySocialLink": "https://github.com/Jyotsana555",
+        "college": {
+            "name": "Orissa Engineering College",
+            "city": "Bhubaneswar",
+            "url": "https://www.oec.ac.in/"
+        }
     }
+
 ]
