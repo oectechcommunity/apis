@@ -3,36 +3,66 @@
         "name": "Smruti Ranjan Rana",
         "branch": "Computer Science & Engineering",
         "academicYear": "2016-2020",
-        "anySocialLink": "https://linkedin.com/in/devsmranjan"
+        "anySocialLink": "https://linkedin.com/in/devsmranjan",
+        "college": {
+            "name": "Orissa Engineering College",
+            "city": "Bhubaneswar",
+            "url": "https://www.oec.ac.in/"
+        }
     },
     {
         "name": "Pankaj Kumar Mondal",
         "branch": "Computer Science & Engineering",
         "academicYear": "2015-2019",
-        "anySocialLink": "https://facebook.com/devsmranjan"
+        "anySocialLink": "https://facebook.com/devsmranjan",
+        "college": {
+            "name": "Orissa Engineering College",
+            "city": "Bhubaneswar",
+            "url": "https://www.oec.ac.in/"
+        }
     },
     {
         "name": "Rohit Kumar Soni",
         "branch": "Computer Science & Engineering",
         "academicYear": "2016-2020",
-        "anySocialLink": "https://instagram.com/devsmranjan"
+        "anySocialLink": "https://instagram.com/devsmranjan",
+        "college": {
+            "name": "Orissa Engineering College",
+            "city": "Bhubaneswar",
+            "url": "https://www.oec.ac.in/"
+        }
     },
     {
         "name": "Priya Kumari",
         "branch": "Computer Science & Engineering",
         "academicYear": "2016-2020",
-        "anySocialLink": "https://github.com/devsmranjan"
+        "anySocialLink": "https://github.com/devsmranjan",
+        "college": {
+            "name": "Orissa Engineering College",
+            "city": "Bhubaneswar",
+            "url": "https://www.oec.ac.in/"
+        }
     },
     {
         "name": "Pravin Vedurla",
         "branch": "Computer Science & Engineering",
         "academicYear": "2016-2020",
-        "anySocialLink": ""
+        "anySocialLink": "",
+        "college": {
+            "name": "Orissa Engineering College",
+            "city": "Bhubaneswar",
+            "url": "https://www.oec.ac.in/"
+        }
     },
     {
         "name": "Rohit Mohanty",
         "branch": "Electronics & Communication Engineering",
         "academicYear": "2016-2020",
-        "anySocialLink": ""
+        "anySocialLink": "",
+        "college": {
+            "name": "Orissa Engineering College",
+            "city": "Bhubaneswar",
+            "url": "https://www.oec.ac.in/"
+        }
     }
 ]
