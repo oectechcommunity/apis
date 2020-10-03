@@ -86,6 +86,17 @@
             "city":"Bhubaneswar",
             "url":"https://www.oec.ac.in/"
         }
+    },
+      {
+        "name": "Anuska Lenka",
+        "branch": "Computer Science & Engineering",
+        "academicYear": "2017-2021",
+        "anySocialLink": "https://www.linkedin.com/in/anuska-lenka-1539961b1/",
+        "college":{
+            "name":"Orissa Engineering College",
+            "city":"Bhubaneswar",
+            "url":"https://www.oec.ac.in/"
+        }
     }
 
 ]
