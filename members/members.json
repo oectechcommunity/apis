@@ -108,6 +108,16 @@
           "city":"Bhubaneswar",
           "url":"https://www.oec.ac.in/"
       }
+    },
+    {
+        "name": "Lipsa Sahoo",
+        "branch" :"Computer Science & Engineering",
+        "academicYear":"2017-2021",
+        "anySocialLink": "https://www.linkedin.com/in/lipsa-sahoo-39505718b",
+        "college" :{
+            "name": "Orissa Engineering College",
+            "city": "Bhubaneswar",
+            "url" : "https://www.oec.ac.in/"
+        }
     }
-
 ]
