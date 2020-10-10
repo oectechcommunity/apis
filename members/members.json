@@ -130,5 +130,16 @@
             "city": "Bhubaneswar",
             "url" : "https://www.oec.ac.in/"
         }
+    },
+    {
+        "name": "Onkit Ku. Nayak",
+        "branch" :"Computer Science & Engineering",
+        "academicYear":"2017-2021",
+        "anySocialLink": "https://github.com/onkitnayak",
+        "college" :{
+            "name": "Orissa Engineering College",
+            "city": "Bhubaneswar",
+            "url" : "https://www.oec.ac.in/"
+        }
     }
 ]
