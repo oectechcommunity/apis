@@ -141,5 +141,16 @@
             "city": "Bhubaneswar",
             "url" : "https://www.oec.ac.in/"
         }
+    },
+    {
+        "name": "Riya Agrawal",
+        "branch" :"Computer Science & Engineering",
+        "academicYear":"2016-2020",
+        "anySocialLink": "https://github.com/riyaagrawal0698",
+        "college" :{
+            "name": "Orissa Engineering College",
+            "city": "Bhubaneswar",
+            "url" : "https://www.oec.ac.in/"
+        }
     }
 ]
